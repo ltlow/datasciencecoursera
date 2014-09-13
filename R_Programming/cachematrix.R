@@ -1,5 +1,5 @@
       ## As required in the assignment, this script contains two functions, namely  
-      ## makeCacheMatrix and casheSolve, which caches and computes its inverse of a square matrix.     
+      ## makeCacheMatrix and casheSolve, which caches and computes its inverse of a matrix.     
 
       ## (1) makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse.
 
