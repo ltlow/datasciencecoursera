@@ -23,8 +23,6 @@
           getInverse <- function() 
           i
           }
-          
-          ## Return a list containing the functions
           list(set = set, get = get,
                setInverse = setInverse,
                getInverse = getInverse)
